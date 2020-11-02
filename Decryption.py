@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+# Shreya Bose
 
 f = open('myfile.txt','r')
 text = f.read()
@@ -15,20 +11,6 @@ for letter in 'abcdefghijklmnopqrstuvwxyz123456789':
         text = text.replace(keys,values)
 print(text)
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
